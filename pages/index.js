@@ -20,7 +20,7 @@ export default function Home() {
             fontSize: "68px",
             lineHeight: "94px",
             color: "white",
-            width: "995px",
+            width: "970px",
             height: "282px",
             marginLeft: "29%", marginTop: "4%"
           }}>Turn Your Website Into Your Best Sales Person</span>
