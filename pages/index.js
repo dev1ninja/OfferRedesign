@@ -22,7 +22,7 @@ export default function Home() {
             color: "white",
             width: "995px",
             height: "282px",
-            marginLeft: "29%", marginTop: "14%"
+            marginLeft: "29%", marginTop: "4%"
           }}>Turn Your Website Into Your Best Sales Person</span>
 
           <span style={{
@@ -34,7 +34,7 @@ export default function Home() {
             color: "white",
             width: "582px",
             height: "99px",
-            marginLeft: "50%", marginTop: "25%"
+            marginLeft: "49%", marginTop: "15%"
           }}>Triple your sales with a pixel-perfect website.
             At SmartSite Studio, we don’t just design and write code, we build a revenue-driving machine for your business.</span>
           <Image src={avatar} width={"100%"} height={"100%"} style={{ marginLeft: "18%", marginTop: "10%", display: 'block' }} />
@@ -42,8 +42,8 @@ export default function Home() {
             position: 'absolute',
             display: 'flex',
             gap: '10px',
-            marginLeft: "50%",
-            marginTop: "32%"
+            marginLeft: "49%",
+            marginTop: "-15%"
           }}>
             <button style={{
               width: "200px",
