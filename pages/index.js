@@ -45,7 +45,7 @@ export default function Home() {
             marginLeft: "49%",
             marginTop: "-15%"
           }}>
-            <button style={{
+            <a style={{
               width: "200px",
               height: "60px",
               padding: "21px 52px 21px 52px",
@@ -57,10 +57,10 @@ export default function Home() {
               fontWeight: 700,
               fontSize: "16px",
               lineHeight: "20.9px",
-            }}>
+            }} href='https://roman-skok.vercel.app/'>
               Talk to US
-            </button>
-            <button style={{
+            </a>
+            <a style={{
               width: "200px",
               height: "60px",
               padding: "21px 52px 21px 52px",
@@ -72,9 +72,9 @@ export default function Home() {
               fontWeight: 700,
               fontSize: "16px",
               lineHeight: "20.9px",
-            }}>
+            }} href='https://roman-skok.vercel.app/'>
               See Portfolio
-            </button>
+            </a>
           </div>
         </div>
       </main>
